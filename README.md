@@ -1,1 +1,1 @@
-project done using MVC Architecture , Servlets and JSP
+Project done using MVC Architecture , Servlets and JSP
