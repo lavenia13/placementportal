@@ -1,1 +1,1 @@
-Project done using MVC Architecture , Servlets and JSP , integrated with oracle.
+Project done using MVC Architecture , Servlets and JSP , integrated with oracle
